@@ -1,0 +1,8 @@
+{
+  "name": "com.tzdevil.labelblocks",
+  "displayName": "Label Blocks",
+  "version": "1.0.0",
+  "unity": "2019.1",
+  "description": "Label Blocks, by tzdevil.",
+  "type": "tool"
+}
